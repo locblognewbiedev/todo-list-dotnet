@@ -1,4 +1,3 @@
-Dưới đây là một file README mẫu hoàn chỉnh có trình bày thêm về **DTO** và **AutoMapper**:
 
 ---
 
