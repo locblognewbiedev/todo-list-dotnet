@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LocDu\\Desktop\\todo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|c:\\users\\locdu\\desktop\\todo\\controllers\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:controllers\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|c:\\users\\locdu\\desktop\\todo\\models\\dtos\\congviecdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:models\\dtos\\congviecdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\migrations\\202501170319592_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:migrations\\202501170319592_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\controllers\\loaicongvieccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:controllers\\loaicongvieccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|c:\\users\\locdu\\desktop\\todo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|c:\\users\\locdu\\desktop\\todo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\models\\loaicongviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:models\\loaicongviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\models\\dtos\\loaicongviecdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:models\\dtos\\loaicongviecdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\profiles\\yourmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:profiles\\yourmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\models\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:models\\congviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|C:\\Users\\LocDu\\Desktop\\todo\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A82A912E-9D29-431C-8B19-3D2449961A5D}|todo.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CongViecDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Models\\DTOs\\CongViecDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CongViecDTO.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Models\\DTOs\\CongViecDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\CongViecDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:51:30.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CongViec.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Controllers\\CongViec.cs",
+              "RelativeDocumentMoniker": "Controllers\\CongViec.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Controllers\\CongViec.cs",
+              "RelativeToolTip": "Controllers\\CongViec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:48:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoaiCongViecController.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Controllers\\LoaiCongViecController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoaiCongViecController.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Controllers\\LoaiCongViecController.cs",
+              "RelativeToolTip": "Controllers\\LoaiCongViecController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:39:37.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-17T04:34:29.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:30:31.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202501170319592_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Migrations\\202501170319592_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\202501170319592_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Migrations\\202501170319592_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\202501170319592_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:20:16.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:39:51.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:56:29.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwD0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:13:36.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Data\\DBContext.cs",
+              "RelativeDocumentMoniker": "Data\\DBContext.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Data\\DBContext.cs",
+              "RelativeToolTip": "Data\\DBContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:59:59.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoaiCongViec.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Models\\LoaiCongViec.cs",
+              "RelativeDocumentMoniker": "Models\\LoaiCongViec.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Models\\LoaiCongViec.cs",
+              "RelativeToolTip": "Models\\LoaiCongViec.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:21:31.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:19:03.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-15T13:34:10.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:28:25.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:31:34.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\UnityConfig.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:18:48.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:30:55.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "YourMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Profiles\\YourMappingProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\YourMappingProfile.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Profiles\\YourMappingProfile.cs",
+              "RelativeToolTip": "Profiles\\YourMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:49:32.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoaiCongViecDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Models\\DTOs\\LoaiCongViecDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\LoaiCongViecDTO.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Models\\DTOs\\LoaiCongViecDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\LoaiCongViecDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:32:09.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CongViec.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Models\\CongViec.cs",
+              "RelativeDocumentMoniker": "Models\\CongViec.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Models\\CongViec.cs",
+              "RelativeToolTip": "Models\\CongViec.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:22:14.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\LocDu\\Desktop\\todo\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\LocDu\\Desktop\\todo\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:36:33.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

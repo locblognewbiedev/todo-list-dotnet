@@ -1,0 +1,106 @@
+﻿@{
+    ViewData["Title"] = "Nhập Loại Công Việc";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+
+    <h1>@ViewData["Title"]</h1>
+
+    <!-- Form nhập công việc -->
+    <form id="jobForm">
+        <div>
+            <label for="jobName">Tên Công Việc:</label>
+            <input type="text" id="jobName" name="jobName" placeholder="Nhập tên công việc" required>
+        </div>
+        <div>
+            <label for="jobLevel">Mức Độ:</label>
+            <select id="jobLevel" name="jobLevel" required>
+                <option value="thấp">Thấp</option>
+                <option value="trung bình">Trung Bình</option>
+                <option value="cao">Cao</option>
+            </select>
+        </div>
+        <br />
+        <button type="submit">Lưu</button>
+    </form>
+
+    <br />
+
+    <!-- Form nhập ID và nút xóa công việc -->
+    <div>
+        <label for="deleteId">Nhập ID để xóa:</label>
+        <input type="text" id="deleteId" placeholder="ID công việc cần xóa" />
+        <button id="deleteButton">Xóa</button>
+    </div>
+
+    <script>
+        // Xử lý gửi dữ liệu khi nhấn nút "Lưu"
+        document.getElementById("jobForm").addEventListener("submit", function (event) {
+            event.preventDefault(); // Ngừng việc gửi form theo mặc định
+
+            // Lấy dữ liệu từ các trường input
+            const jobName = document.getElementById("jobName").value;
+            const jobLevel = document.getElementById("jobLevel").value;
+
+            // Tạo đối tượng chứa dữ liệu cần gửi
+            const data = {
+                TenLoai: jobName,
+                MucDoKhanCap: jobLevel
+            };
+
+            // Gửi dữ liệu qua fetch
+            fetch("https://localhost:44386/api/LoaiCongViec", {
+                method: "POST", // Phương thức POST
+                headers: {
+                    "Content-Type": "application/json", // Xác định dữ liệu là JSON
+                },
+                body: JSON.stringify(data), // Chuyển đổi dữ liệu thành chuỗi JSON
+            })
+                .then(response => response.json()) // Xử lý phản hồi từ server (JSON)
+                .then(data => {
+                    console.log("Dữ liệu đã gửi thành công:", data);
+                    alert("Công việc đã được lưu!");
+                })
+                .catch(error => {
+                    console.error("Lỗi khi gửi dữ liệu:", error);
+                    alert("Có lỗi xảy ra!");
+                });
+        });
+
+        // Xử lý xóa công việc khi nhấn nút "Xóa"
+        document.getElementById("deleteButton").addEventListener("click", function () {
+            const jobId = document.getElementById("deleteId").value;
+
+            if (!jobId) {
+                alert("Vui lòng nhập ID công việc cần xóa.");
+                return;
+            }
+
+            // Gửi yêu cầu xóa công việc qua fetch
+            fetch(`https://localhost:44386/api/LoaiCongViec/${jobId}`, {
+                method: "DELETE", // Phương thức DELETE
+                headers: {
+                    "Content-Type": "application/json",
+                },
+            })
+                .then(response => response.json()) // Xử lý phản hồi từ server (JSON)
+                .then(data => {
+                    console.log("Công việc đã được xóa:", data);
+                    alert("Công việc đã được xóa!");
+                })
+                .catch(error => {
+                    console.error("Lỗi khi xóa công việc:", error);
+                    alert("Có lỗi xảy ra khi xóa!");
+                });
+        });
+    </script>
+
+</body>
+</html>
